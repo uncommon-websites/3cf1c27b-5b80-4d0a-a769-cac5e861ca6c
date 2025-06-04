@@ -16,7 +16,15 @@
 	imageSrc="/sample.png"
 	generating
 />
-<LogoScroller label="" generating />
+<LogoScroller
+	label="Trusted by industry leaders"
+	logoUrls={[
+		'https://logo.clearbit.com/rippling.com',
+		'https://logo.clearbit.com/robinhood.com',
+		'https://logo.clearbit.com/loom.com',
+		'https://logo.clearbit.com/figma.com'
+	]}
+/>
 
 <Summary
 	generating
